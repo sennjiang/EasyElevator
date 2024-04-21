@@ -7,6 +7,14 @@
     <groupId>com.ss</groupId>
     <artifactId>EasyElevator</artifactId>
     <version>1.0</version>
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>RELEASE</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
